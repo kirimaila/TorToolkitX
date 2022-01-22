@@ -644,8 +644,8 @@ async def set_password_zip(message):
 
 
 async def start_handler(event):
-    msg = "🔥Yo Wuzzup ❗️Bro🤟
-Are You Want Use Me❓Contact My Owner 👉 @Wuzzup_BoY "
+    msg = Yo Wuzzup Bro..
+Are You Want Use Me ?Contact My Owner 👉 @Wuzzup_BoY "
     await event.reply(msg, parse_mode="html")
 
 
